@@ -24,3 +24,8 @@
 -       else:
 -           print("Not Weird")
 
+- Explanation on if n%2 ! - 0
+- n is the variable representing the number to be checked.
+- % is the modulo operator, which calculates the remainder when n is divided by 2.
+- != is the not equal to operator, which checks if the result of the modulo operation is not equal to 0.
+- if n % 2 != 0: checks if the remainder of n divided by 2 is not equal to 0, indicating that n is an odd number.
